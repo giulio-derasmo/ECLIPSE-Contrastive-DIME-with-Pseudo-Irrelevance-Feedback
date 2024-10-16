@@ -26,5 +26,6 @@ with respect to their DIME counterparts and Baseline. The bold represents the
 best result for each dataset and metric, having LLM Eclipse the most effective
 approach.
 
-
+<div align="center">
 <img src="images/comparison-eclipse-baselines.jpeg" alt="" width="400"/>
+<div>
