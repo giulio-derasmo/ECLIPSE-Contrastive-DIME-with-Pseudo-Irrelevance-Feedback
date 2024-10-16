@@ -11,4 +11,4 @@ Eclipse has been tested on four benchmark datasets: TREC Deep Learning 2019, TRE
 
 
 ![RQ: Can pseudo-irrelevance feedback be leveraged to improve state-of-the-
-art DIME approaches?](images/comparison-eclipse-baselines.png)
+art DIME approaches?](images/comparison-eclipse-baselines.jpeg)
