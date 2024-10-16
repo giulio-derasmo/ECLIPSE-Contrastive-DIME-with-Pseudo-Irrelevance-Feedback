@@ -25,5 +25,6 @@ both PRF Eclipse and LLM Eclipse show statistically significant improvement
 with respect to their DIME counterparts and Baseline. The bold represents the
 best result for each dataset and metric, having LLM Eclipse the most effective
 approach.
-<img src="images/comparison-eclipse-baselines.jpeg" alt="RQ: Can pseudo-irrelevance feedback be leveraged to improve state-of-the-
-art DIME approaches?" width="400"/>
+
+
+<img src="images/comparison-eclipse-baselines.jpeg" alt="" width="400"/>
