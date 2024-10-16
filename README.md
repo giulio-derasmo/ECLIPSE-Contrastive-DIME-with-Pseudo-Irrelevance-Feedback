@@ -9,6 +9,7 @@ Eclipse is built upon the Manifold Clustering Hypothesis, aiming to reduce noise
 ## Benchmarks
 Eclipse has been tested on four benchmark datasets: TREC Deep Learning 2019, TREC Deep Learning 2020, DL-HARD 2021, TREC Robust 2004; and three different retrieaval models ANCE, Contriever, TAS-B. 
 
+## Results
 
-![RQ: Can pseudo-irrelevance feedback be leveraged to improve state-of-the-
-art DIME approaches?](images/comparison-eclipse-baselines.jpeg)
+<img src="images/comparison-eclipse-baselines.jpeg" alt="RQ: Can pseudo-irrelevance feedback be leveraged to improve state-of-the-
+art DIME approaches?" width="400"/>
